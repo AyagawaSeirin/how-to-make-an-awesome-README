@@ -28,27 +28,20 @@ It's acknowledged that GitHub allows every repository to have a `README.md` file
 
 ## Table of Contents
 
-- What is an awesome `README.md`？
-
-- Markdown
-
-- An awesome header
-
-- GitHub Badges
-
-- While writing the body of Contents
-
-  - What should be included?
-  - Title each part
-
-  - Serious Grammar
-  - Less uncommon words
-
-- Copyright & Contributors
-
-- Awesome banners
-
-- Emoji
+- [What is an awesome `README.md`？](#introduction)
+- [Markdown](#markdown)
+- [An awesome header](#an-awesome-header)
+- [GitHub Badges](#github-badges)
+- [While writing the body of Contents](#while-writing-the-body-of-contents)
+- [What should be included?](#what)
+  - [Title each part](#title-each-part)
+  
+- [Serious Grammar](#serious-grammar)
+  - [Less uncommon words](#less-uncommon-words)
+- [Copyright & Contributors](#copyright--contributors)
+- [Awesome banners](#awesome-banners)
+- [Emoji](#emoji)
+- [Examples](#examples)
 
 ## What is an awesome `README.md`?
 
@@ -88,8 +81,7 @@ It's the header of the `README.md` in the jQuery repository. It has two parts, t
 If you think this sort of header is ugly. Maybe you can made it in the center just like this:
 
 > <h1 align="center">PicGo</h1>
->
-> > <p align="center">
+>> <p align="center">
 > >     New experience of image uploading and managing.
 > > </p>
 
@@ -99,8 +91,9 @@ You can also put your LOGO image over the title.
 
 > <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" align="center">
 >
-> <h1 align="center">PicGo</h1>
+> 
 >
+> <h1 align="center">PicGo</h1>
 > > <p align="center">
 > >     New experience of image uploading and managing.
 > > </p>
@@ -115,13 +108,15 @@ You can also put the logo in the left or right. Just add the image with `<img>` 
 >
 > > New experience of image uploading and managing.
 
+It would show in the other side of the text.
+
 
 
 ## GitHub Badges
 
 What is GitHub Badge? You might see this kind of little picture before.
 
-> ![](https://img.shields.io/badge/build-passing-brightgreen)![](https://img.shields.io/badge/license-MIT-green?style=flat-square)![](https://img.shields.io/badge/Stars-4k-blueviolet?style=social&logo=github)![](https://img.shields.io/badge/Made with-❤-ff69b4?style=for-the-badge)
+> ![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![](https://img.shields.io/badge/Stars-4k-blueviolet?style=social&logo=github) ![](https://img.shields.io/badge/Made%20with-❤-ff69b4?style=for-the-badge)
 
 They're called badge. Though they may look different, they do the same thing. Badge can tell users some information like what license the repository is under, if I can pull requests, how many stars has the repository get so far and etc., by the short text on it.
 
