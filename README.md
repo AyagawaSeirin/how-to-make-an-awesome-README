@@ -80,9 +80,7 @@ It's the header of the `README.md` in the jQuery repository. It has two parts, t
 If you think this sort of header is ugly. Maybe you can made it in the center just like this:
 
 > <h1 align="center">PicGo</h1>
->> <p align="center">
-> >     New experience of image uploading and managing.
-> > </p>
+> <p align="center">New experience of image uploading and managing.</p>
 
 This is a part of PicGo `README.md`'s header. It may look better.
 
@@ -90,12 +88,8 @@ You can also put your LOGO image over the title.
 
 > <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" align="center">
 >
-> 
->
 > <h1 align="center">PicGo</h1>
-> > <p align="center">
-> >     New experience of image uploading and managing.
-> > </p>
+> <p align="center">New experience of image uploading and managing.</p>
 
 LOGO is a symbol of the product. And a nice LOGO can make the product more impressive. We don't talk about LOGO Design here. But it true that LOGO make the header look better.
 
@@ -104,7 +98,6 @@ You can also put the logo in the left or right. Just add the image with `<img>` 
 > <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" align="right">
 >
 > # PicGo
->
 > > New experience of image uploading and managing.
 
 It would show in the other side of the text.
