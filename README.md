@@ -8,7 +8,7 @@
 
 **How to make an Awesome `README.md` for you repository.**
 
-This document talks about the good way to make `README.md` file. It it written by [Eltrac Koalar](https://github.com/BigCoke233) originally. Any valuable Pull Requests and issue is welcome.
+This document talks about the good way to make `README.md` file. It is written by [Eltrac Koalar](https://github.com/BigCoke233) originally. Any valuable Pull Requests and issue is welcome.
 
 We need other editions of some other languages. If you're gald and able to do it, you can help us. And if you have some ideas, you can open an new issue.
 
