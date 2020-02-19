@@ -86,7 +86,7 @@ This is a part of PicGo `README.md`'s header. It may look better.
 
 You can also put your LOGO image over the title. 
 
-> <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" align="center">
+> <p align="center"><img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png"></p>
 >
 > <h1 align="center">PicGo</h1>
 > <p align="center">New experience of image uploading and managing.</p>
