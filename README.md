@@ -1,6 +1,6 @@
 ![](banner.jpg)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)![](https://img.shields.io/badge/license-MIT-green?style=flat-square)![](https://img.shields.io/github/stars/BigCoke233/make-an-awesome-README?label=Star&style=flat-square)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![](https://img.shields.io/github/stars/BigCoke233/make-an-awesome-README?label=Star&style=flat-square)
 
 [Jump to the Content right now ↓](#Introduction)
 
